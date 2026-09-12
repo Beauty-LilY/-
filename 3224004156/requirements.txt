@@ -1,0 +1,3 @@
+jieba
+pytest
+pytest-cov
